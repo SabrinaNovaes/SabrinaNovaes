@@ -3,7 +3,7 @@
 - 🔭 Iniciando na programação
 - 😄 Pronomes: ela/dela
 - ♋ Canceriana 
-<div align="center" style="padding: 3rem">
+<div align="center" style="padding: 2rem">
   <a href="https://github.com/SabrinaNovaes">
   <img height="180rem" width="48%" src="https://github-readme-stats.vercel.app/api?username=sabrinanovaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180rem" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinanovaes&layout=compact&langs_count=7&theme=dracula"/>
