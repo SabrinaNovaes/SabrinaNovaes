@@ -17,7 +17,11 @@
    <img align="center" alt="Sabrina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    <img align="center" alt="Sabrina-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
    <img align="center" alt="Sabrina-CSharpe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <a href="https://picasion.com/">
+   <img align="center" alt="Sabrina-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="center" alt="Sabrina-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+   <imng align="center" alt="Sabrina-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+   <img align="center" alt="Sabrina-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+   <a href="https://picasion.com/">
   <img align="right" alt="sabrina-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/80a41bb073b69e154768bab86936a603.gif">
  </div>
   
