@@ -25,3 +25,4 @@
 
     ![Snake animation]
     (https://github.com/SabrinaNovaes/SabrinaNovaes/blob/output/github-contribution-grid-snake.svg)
+  </div>
