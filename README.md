@@ -30,6 +30,18 @@
 <div> 
  <a href="https://www.linkedin.com/in/sabrina-novaes-b74705243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/SabrinaNovaes/SabrinaNovaes/blob/output/github-contribution-grid-snake.svg)
+  # Animação de Cobra
+      - usa : Platane/snk@master
+        id : cobra-gif
+        com :
+          github_user_name : SabrinaNovaes
+          svg_out_path : dist/github-contribution-grid-snake.svg
+      - usa : crazy-max/ghaction-github-pages@v2.1.3
+        com :
+          target_branch : saída
+          build_dir : dist
+        ambiente :
+          GITHUB_TOKEN : ${{ segredos.GITHUB_TOKEN }}
+  
  
 </div>
