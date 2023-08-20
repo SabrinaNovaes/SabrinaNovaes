@@ -6,8 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/SabrinaNovaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaNovaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaNovaes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaNovaes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SabrinaNovaes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaNovaes&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"](https://github.com/SEUUSERNAME/SEUREPOSITORIO)/> -->
 </div>
   
 <div style="display: inline-block"><br>
