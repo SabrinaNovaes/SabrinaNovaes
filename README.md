@@ -1,7 +1,9 @@
 ## Olá! Eu sou a Sabrina
 
-- 🔭 Iniciando na programação
+- 💻 Em transição de carreira
+- 👩‍🎓 Atualmente fazendo o curso de Backend na Cubos Academy
 - 😄 Pronomes: ela/dela
+- 🎮 Gamer
 - ♋ Canceriana 
 
 <div align="center">
