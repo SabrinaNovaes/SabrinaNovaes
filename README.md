@@ -37,5 +37,7 @@
 ##
 
 <div align="center">
- <!-- ![snake gif](https://github.com/SabrinaNovaes/SabrinaNovaes/blob/output/github-contribution-grid-snake.svg) -->
+
+  ![Snake animation](https://github.com/SabrinaNovaes/SabrinaNovaes/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
