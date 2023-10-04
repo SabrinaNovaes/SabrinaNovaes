@@ -34,6 +34,18 @@
  <a href="https://www.linkedin.com/in/sabrina-novaes-b74705243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<h3 align="center">🐍&nbsp&nbspActivity&nbsp&nbsp🐍</h3>
 
- ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+##
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nyrvlivy/Nyrvlivy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nyrvlivy/Nyrvlivy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nyrvlivy/Nyrvlivy/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+  <p align="right">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23E4E2E2&vCenter=true&lines=Thank+you+for+visiting+my+profile+!" />
+  </p>
+</div>
