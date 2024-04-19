@@ -1,17 +1,23 @@
-## Olá! Eu sou a Sabrina
+<a href="https://picasion.com/">
+  <img align="right" alt="sabrina-pic" height="250" src="https://i.picasion.com/pic92/80a41bb073b69e154768bab86936a603.gif"></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Sabrina!)](https://git.io/typing-svg)
 
 - 💻 Em transição de carreira
 - 😄 Pronomes: ela/dela
 - 🎮 Gamer
-- ♋ Canceriana 
-
-<div align="center">
-  <a href="https://github.com/SabrinaNovaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaNovaes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SabrinaNovaes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaNovaes&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"](https://github.com/SEUUSERNAME/SEUREPOSITORIO)/> -->
-</div>
+- ♋ Canceriana
   
+##
+
+<h3 align="left">Conecte-se comigo</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:sabrinanovaes96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sabrina-novaes-desenvolvedora-full-stack/)
+
+ ##
+
+<h3 align="left">Minha Stack :computer:</h3>
 <div style="display: inline-block"><br>
   <img align="center" alt="sabrina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="sabrina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -23,16 +29,17 @@
    <img align="center" alt="Sabrina-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" alt="Sabrina-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
    <img align="center" alt="Sabrina-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-   <a href="https://picasion.com/">
-  <img align="right" alt="sabrina-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/80a41bb073b69e154768bab86936a603.gif">
  </div>
-  
-  ##
-  
-<div> 
- <a href="https://www.linkedin.com/in/sabrina-novaes-desenvolvedora-full-stack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
+ ##
+
+<h3 align="left">Github Stats</h3>
+<div align="center">
+  <a href="https://github.com/SabrinaNovaes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaNovaes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SabrinaNovaes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+</div>
+  
 ##
 
 <div align="center">
