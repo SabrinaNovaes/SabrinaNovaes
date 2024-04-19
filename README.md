@@ -3,10 +3,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Sabrina!)](https://git.io/typing-svg)
 
+"Programação é a habilidade de tomar uma grande ideia e dividi-la em partes menores que podem ser entendidas e executadas por uma máquina." 
+
+##
+
 - 💻 Em transição de carreira
 - 😄 Pronomes: ela/dela
 - 🎮 Gamer
 - ♋ Canceriana
+
+👋 Atualmente estou em transição para o desenvolvimento web, direcionando meus estudos para Front-end e Back-end, visando me tornar Full Stack. Procuro me manter constantemente atualizada na área da tecnologia. A capacidade de usar minha imaginação para solucionar problemas reais é profundamente significativa para mim.
   
 ##
 
