@@ -13,14 +13,14 @@
   
 ##
 
-<h3 align="left">Conecte-se comigo</h3>
+## 📬 Conecte-se comigo
 
 [![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:sabrinanovaes96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sabrina-novaes-desenvolvedora-full-stack/)
 
- ##
+##
 
-<h3 align="left">Minha Stack :computer:</h3>
+## :computer:Minha Stack
 <div style="display: inline-block"><br>
   <img align="center" alt="sabrina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="sabrina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -32,11 +32,16 @@
    <img align="center" alt="Sabrina-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" alt="Sabrina-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
    <img align="center" alt="Sabrina-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+   <img align="center" alt="Sabrina-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+   <img align="center" alt="Sabrina-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+   <img align="center" alt="Sabrina-postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />    
+   <img align="center" alt="Sabrina-nodemon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" />
+   <img align="center" alt="Sabrina-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
  </div>
 
- ##
+ ## 
 
-<h3 align="left">Github Stats</h3>
+## 📊 Github Stats
 <div align="center">
   <a href="https://github.com/SabrinaNovaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaNovaes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br"/>
