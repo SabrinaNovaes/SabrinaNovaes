@@ -16,7 +16,7 @@
 <h3 align="left">Conecte-se comigo</h3>
 
 [![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:sabrinanovaes96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sabrina-novaes-desenvolvedora-full-stack/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sabrina-novaes-desenvolvedora-full-stack/)
 
  ##
 
@@ -39,8 +39,12 @@
 <h3 align="left">Github Stats</h3>
 <div align="center">
   <a href="https://github.com/SabrinaNovaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaNovaes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaNovaes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SabrinaNovaes&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC" alt="ovi" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabrinaNovaes&theme=neon-dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br&layout=compact" alt="mystreak"/>
 </div>
   
 ##
