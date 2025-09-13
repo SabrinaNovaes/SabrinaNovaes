@@ -40,7 +40,7 @@
 <div align="center">
   <a href="https://github.com/SabrinaNovaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaNovaes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SabrinaNovaes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SabrinaNovaes&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC" alt="ovi" />
 </div>
   
 ##
