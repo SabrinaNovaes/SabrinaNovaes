@@ -9,7 +9,11 @@
 
 - 💻 Em transição de carreira
 
-👋 Atualmente estou em transição para o desenvolvimento web, direcionando meus estudos para Front-end e Back-end, visando me tornar Full Stack. Procuro me manter constantemente atualizada na área da tecnologia. A capacidade de usar minha imaginação para solucionar problemas reais é profundamente significativa para mim.
+👋 Atualmente estou em transição para o desenvolvimento web, como Full Stack. Procuro me manter constantemente atualizada na área da tecnologia.
+
+##
+
+🌈 A capacidade de usar minha imaginação para solucionar problemas reais é profundamente significativa para mim.
   
 ##
 
