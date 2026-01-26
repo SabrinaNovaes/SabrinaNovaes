@@ -7,7 +7,7 @@
 
 ##
 
-- 💻 Em transição de carreira
+ 💻 Em transição de carreira
 
 👋 Atualmente estou em transição para o desenvolvimento web, como Full Stack. Procuro me manter constantemente atualizada na área da tecnologia.
 
