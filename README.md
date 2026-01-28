@@ -1,7 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff97cf&height=180&section=header&text=Bem-Vindo&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
+
 <a href="https://picasion.com/">
   <img align="right" alt="sabrina-pic" height="250" src="https://i.picasion.com/pic92/80a41bb073b69e154768bab86936a603.gif"></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Sabrina!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff97cf&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Sabrina!)](https://git.io/typing-svg)
 
 "Programação é a habilidade de tomar uma grande ideia e dividi-la em partes menores que podem ser entendidas e executadas por uma máquina." 
 
@@ -19,7 +22,7 @@
 
 ## 📬 Conecte-se comigo
 
-[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:sabrinanovaes96@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=ff97cf&color:FFF)](mailto:sabrinanovaes96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sabrina-novaes-desenvolvedora-full-stack/)
 
 ##
@@ -48,10 +51,12 @@
 ## 📊 Github Stats
 <div align="center">
   <a href="https://github.com/SabrinaNovaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaNovaes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SabrinaNovaes&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC" alt="ovi" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaNovaes&theme=transparent&bg_color=000&border_color=ff97cf&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SabrinaNovaes&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br&layout=compact&theme=transparent&bg_color=000&border_color=ff97cf" alt="ovi" />
 </div>
-  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff97cf&height=120&section=footer"/>
+
 ##
 
 <div align="center">
