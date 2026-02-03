@@ -67,6 +67,6 @@
 </picture>
 <br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=20&color=ff97cf"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=20&color=ff97cf&section=footer"/>
   
 </div>
