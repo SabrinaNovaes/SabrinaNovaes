@@ -1,8 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff97cf&height=150&section=header&text=Bem-Vindo&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=30"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=80&color=ff97cf&text=Bem-Vindo&reversal=false&textBg=false&fontColor=fff&fontSize=25&animation=twinkling&fontAlign=50&fontAlignY=50&stroke=ff97cf&descAlignY=47"/>
 
-
+##
 <a href="https://picasion.com/">
-  <img align="right" alt="sabrina-pic" height="250" src="https://i.picasion.com/pic92/80a41bb073b69e154768bab86936a603.gif"></a>
+  <img align="right" alt="sabrina-pic" height="200" src="https://i.picasion.com/pic92/80a41bb073b69e154768bab86936a603.gif"></a>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff97cf&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Sabrina!)](https://git.io/typing-svg)
 
@@ -55,8 +56,6 @@
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SabrinaNovaes&layout=compact&theme=transparent&bg_color=000&border_color=ff97cf&title_color=B6B0FF&icon_color=30A3DC" alt="ovi"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff97cf&height=120&section=footer"/>
-
 ##
 
 <div align="center">
@@ -67,5 +66,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SabrinaNovaes/SabrinaNovaes/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=20&color=ff97cf"/>
   
 </div>
