@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=80&color=ff97cf&text=Bem-Vindo&reversal=false&textBg=false&fontColor=fff&fontSize=25&animation=twinkling&fontAlign=50&fontAlignY=50&stroke=ff97cf&descAlignY=47"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=80&color=ff97cf&text=Desenvolvedora+Web&reversal=false&textBg=false&fontColor=fff&fontSize=25&animation=twinkling&fontAlign=50&fontAlignY=50&stroke=ff97cf&descAlignY=50"/>
 
 ##
 <a href="https://picasion.com/">
