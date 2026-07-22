@@ -26,8 +26,14 @@
 ## 💎 Conecte-se comigo
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/In-Sabrina%20Novaes-ff97cf?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C2185B)](https://www.linkedin.com/in/sabrina-novaes/)
-[![Outlook](https://img.shields.io/badge/Email-Outlook-ff97cf?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=C2185B)](mailto:sabrinanovaes_96@hotmail.com)
+<div >
+  <a href="https://www.linkedin.com/in/sabrina-novaes/">
+    <img src="https://img.shields.io/badge/LinkedIn-C2185B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sabrinanovaes_96@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-C2185B?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  </a>
+</div>
 
 <br>
 
@@ -66,7 +72,6 @@
   <img alt="Postman" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
   <img alt="Insomnia" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg"/>
   <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img alt="Tailwind CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 
 </div>
