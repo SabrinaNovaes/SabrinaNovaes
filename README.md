@@ -1,62 +1,96 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=80&color=ff97cf&text=Desenvolvedora+Web&reversal=false&textBg=false&fontColor=fff&fontSize=25&animation=twinkling&fontAlign=50&fontAlignY=50&stroke=ff97cf&descAlignY=50"/>
 
-##
+
 <a href="https://picasion.com/">
   <img align="right" alt="sabrina-pic" height="200" src="https://i.picasion.com/pic92/80a41bb073b69e154768bab86936a603.gif"></a>
 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff97cf&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Sabrina!)](https://git.io/typing-svg)
 
-"Programação é a habilidade de tomar uma grande ideia e dividi-la em partes menores que podem ser entendidas e executadas por uma máquina." 
+🌈 "Programação é a habilidade de tomar uma grande ideia e dividi-la em partes menores que podem ser entendidas e executadas por uma máquina."
 
-##
+<br>
 
- 💻 Em transição de carreira
+## 💜 Sobre mim
+💻 Desenvolvedora Full Stack em formação, apaixonada por criar soluções que unem tecnologia e experiência do usuário.
 
-👋 Atualmente estou em transição para o desenvolvimento web, como Full Stack. Procuro me manter constantemente atualizada na área da tecnologia.
+- ✨ Carioca
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+- 🚀 Conhecimento em Java, Spring Boot, Node.js, TypeScript, React e bancos de dados relacionais.
+- 📚 Sempre aprendendo novas tecnologias e desenvolvendo projetos para evoluir como desenvolvedora.
+- 🧠 Atualmente focada em desenvolvimento Full Stack, APIs REST e automação de processos.
 
-##
+<br>
 
-🌈 A capacidade de usar minha imaginação para solucionar problemas reais é profundamente significativa para mim.
-  
-##
+## 💎 Conecte-se comigo
+<br>
 
-## 📬 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/In-Sabrina%20Novaes-ff97cf?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C2185B)](https://www.linkedin.com/in/sabrina-novaes/)
+[![Outlook](https://img.shields.io/badge/Email-Outlook-ff97cf?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=C2185B)](mailto:sabrinanovaes_96@hotmail.com)
 
-[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=ff97cf&color:FFF)](mailto:sabrinanovaes96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sabrina-novaes-desenvolvedora-full-stack/)
+<br>
 
-##
+## 🌸 Mulheres que me inspiram
 
-## :computer:Minha Stack
-<div style="display: inline-block"><br>
-  <img align="center" alt="sabrina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="sabrina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-   <img align="center" alt="Sabrina-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-   <img align="center" alt="Sabrina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center" alt="Sabrina-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-   <img align="center" alt="Sabrina-CSharpe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-   <img align="center" alt="Sabrina-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="center" alt="Sabrina-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   <img align="center" alt="Sabrina-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-   <img align="center" alt="Sabrina-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-   <img align="center" alt="Sabrina-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-   <img align="center" alt="Sabrina-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="Sabrina-postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />    
-   <img align="center" alt="Sabrina-nodemon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" />
-   <img align="center" alt="Sabrina-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
- </div>
+- 💜 Ada Lovelace
+- 🚀 Grace Hopper
+- 🧠 Hedy Lamarr
+- 🌙 Margaret Hamilton
+- 🛰️ Katherine Johnson
+- 🌐 Radia Perlman
+- 🤖 Fei-Fei Li
 
- ## 
+  <br>
+
+## 🖥️ Minha Stack
+
+<br> 
+
+<div align="center">
+
+  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="NestJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/>
+  <img alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Postman" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+  <img alt="Insomnia" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg"/>
+  <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img alt="Tailwind CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+
+</div>
+
+<br>
 
 ## 📊 Github Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=SabrinaNovaes&show_icons=true&theme=transparent&bg_color=000&border_color=ff97cf&show_icons=true&icon_color=30A3DC&title_color=B6B0FF&text_color=FFF&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SabrinaNovaes&layout=compact&theme=transparent&bg_color=000&border_color=ff97cf&title_color=B6B0FF&icon_color=30A3DC" alt="ovi"/>
-</div>
+<br>
 
-##
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api?username=SabrinaNovaes&show_icons=true&theme=transparent&border_color=ff97cf&title_color=ff97cf&text_color=FFFFFF&icon_color=ff97cf&locale=pt-br"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SabrinaNovaes&layout=compact&theme=transparent&border_color=ff97cf&title_color=ff97cf&text_color=FFFFFF"
+  />
+</p>
+
+<br>
+<br>
 
 <div align="center">
 
