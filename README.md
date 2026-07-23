@@ -18,8 +18,9 @@
 - ✨ Carioca
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 - 🚀 Conhecimento em Java, Spring Boot, Node.js, TypeScript, React e bancos de dados relacionais.
-- 📚 Sempre aprendendo novas tecnologias e desenvolvendo projetos para evoluir como desenvolvedora.
-- 🧠 Atualmente focada em desenvolvimento Full Stack, APIs REST e automação de processos.
+- 📚 Aprendendo novas tecnologias e desenvolvendo projetos.
+- 🧠 Atualmente focada em desenvolvimento Full Stack. 
+
 
 <br>
 
