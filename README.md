@@ -45,7 +45,6 @@
 - 🌙 Margaret Hamilton
 - 🛰️ Katherine Johnson
 - 🌐 Radia Perlman
-- 🤖 Fei-Fei Li
 
   <br>
 
